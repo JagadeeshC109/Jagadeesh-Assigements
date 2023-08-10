@@ -1,0 +1,29 @@
+.static{
+    background-color: antiquewhite;
+    position: static;
+    height: 200px;
+    width: 450px;
+}
+.relative{
+    background-color: blue;
+    position: relative;
+    height: 200px;
+    width: 450px;
+    left: 500px;
+}
+.absolute{
+    background-color: brown;
+    position: absolute;
+    height: 200px;
+    width: 450px;
+    left: 1000px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+    border: 2px solid greenyellow;
+    padding-top: 50px;
+    padding-bottom: 250px;
+    padding-left: 30px;
+}
