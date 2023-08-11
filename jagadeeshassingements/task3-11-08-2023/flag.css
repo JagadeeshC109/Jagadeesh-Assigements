@@ -1,0 +1,45 @@
+.h{
+  top-width: 400px
+  top-height:100px
+}
+.orange{
+   height: 100px; 
+   width: 400px;
+   position: relative;
+   background-color: #ff9933;
+   top: 50px;
+   left: 100px;
+}
+.white{
+    height: 100px;
+    width: 400px;
+    position: absolute;
+    background-color: whitesmoke;
+    top: 101px;
+    left: 0px;
+}
+.green{
+    height: 100px;
+    width: 400px;
+    position: absolute;
+    background-color:#056608 ;
+    top: 201px;
+    left: 0px;
+}
+.chakra{
+    border: 5px solid navy;
+    height: 70px;
+    width: 70px;
+    position: relative;
+    border-radius: 50%;
+    top: 15px;
+    left: 153px;
+}
+.stick{
+    width: 0px;
+    height: 600px;
+    border: 5px solid black;
+    top: -121px;
+    left: -167px;
+    position: absolute;
+}
