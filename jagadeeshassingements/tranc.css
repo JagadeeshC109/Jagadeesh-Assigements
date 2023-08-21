@@ -1,0 +1,56 @@
+   /* .cube{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.cube{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+} 
+
+
+
+.cube{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    justify-content: center;
+    align-items: center;
+    place-content: center;
+    transform: translate(100%,100%)
+
+} 
+
+.cube{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+    align-items: center;
+    justify-content: center;
+} */
+
+.cube{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    margin: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    translate: 500px;
+
+}
